@@ -37,7 +37,7 @@ pip install tiktoken
 
 ## Envirnoment Variables
 
-Rename .env_file to .env and save your keys in this file
+Rename .env_file  to .env and save your keys in this file
 
 ### Get Open API Keys:
 
